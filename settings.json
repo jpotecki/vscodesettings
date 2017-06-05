@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 12,
+    "editor.fontFamily": "CamingoCode",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "underline",
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "bounded",
+    "window.zoomLevel": 1,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.iconTheme": "vs-seti",
+     "editor.minimap.enabled": true,
+     "editor.minimap.renderCharacters": false
+}

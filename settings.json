@@ -1,7 +1,7 @@
 {
     "editor.fontSize": 12,
     "editor.fontFamily": "CamingoCode",
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "editor.renderWhitespace": "boundary",
     "editor.cursorStyle": "underline",
     "editor.insertSpaces": true,

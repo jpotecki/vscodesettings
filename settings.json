@@ -12,5 +12,6 @@
     "workbench.colorTheme": "Quiet Light",
     "workbench.iconTheme": "vs-seti",
      "editor.minimap.enabled": true,
-     "editor.minimap.renderCharacters": false
+     "editor.minimap.renderCharacters": false,
+     "editor.renderIndentGuides" : false
 }
